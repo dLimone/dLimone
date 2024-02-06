@@ -1,9 +1,13 @@
 ### Olá! Eu sou a Daniela Limone 👋
 
-[![Linkendin](www.linkedin.com/in/daniela-limone-87767b256)
+[![Linkendin]([www.linkedin.com/in/daniela-limone-87767b256](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/daniela-limone-87767b256/)
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/danylimone)
 
 
-## Tecnologias que eu uso no meu dia
+## Sobre mim 👩‍💻
+<h1>Estudante de Análise e Desenvolvimento de Sitemas, profissional em transição de carreira, explorando novas tecnologias.</h1>
+
+## Minhas Habilidades 🚀
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
