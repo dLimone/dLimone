@@ -15,7 +15,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="power bi" src="https://img.shields.io/badge/POWER BI-F7DF1E?" />
-<img align="center" alt="power bi" src="https://iconduck.com/api/v2/vectors/vctrx8vsd46m/media/png/256/download
+<img align="center" alt="power bi" src="https://www.flaticon.com/br/icone-gratis/painel-de-controle_8743596?term=painel&page=1&position=2&origin=search&related_id=8743596download" />
 </div><br/>
 
 ## Contato 📩
