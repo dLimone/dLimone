@@ -14,8 +14,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="power bi" src="https://img.shields.io/badge/POWER BI-F7DF1E?" />
-<img align="center" alt="power bi" src="https://www.flaticon.com/br/icone-gratis/painel-de-controle_8743596?term=painel&page=1&position=2&origin=search&related_id=8743596download" />
+<img align="center" alt="power bi" src="![image](https://github.com/dLimone/dLimone/assets/146998817/a994aaa7-464a-4c85-aa9a-4ce00ca9e630)
+" />
 </div><br/>
 
 ## Contato 📩
