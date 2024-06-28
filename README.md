@@ -12,8 +12,8 @@
  <img align="center" alt="Em desenvolvimento" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
  <br>
   <img align="center" alt="html5" src="https://github.com/dLimone/dLimone/assets/146998817/050ef75a-ed42-47bb-805e-898c78dc5101" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="css" src="https://github.com/dLimone/dLimone/assets/146998817/f3adbb16-b8b1-4422-b542-51d2e318655e" />
+  <img align="center" alt="js" src="https://github.com/dLimone/dLimone/assets/146998817/7b56c2ef-06e5-46ab-82ad-f4fe74b7f25a" />
 </div><br/>
 
 ## Contato 📩
