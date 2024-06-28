@@ -8,8 +8,6 @@
 ## Sobre mim 👩‍💻
 <p>Estudante de Análise e Desenvolvimento de Sitemas, profissional em transição de carreira, explorando novas tecnologias.</p>
 
-## Habilidades em Evolução 🚀
-
 <div style="display: inline_block">
  <img align="center" alt="Em desenvolvimento" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
