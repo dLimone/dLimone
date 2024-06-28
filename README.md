@@ -11,7 +11,7 @@
 ## Habilidades em Evolução 🚀
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="html5" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="power bi" src="https://img.github.com/dLimone/dLimone/assets/146998817/6403a40d-d4a7-4c90-a2ae-1546e6ff603d)
